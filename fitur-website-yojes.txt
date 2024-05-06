@@ -7,4 +7,8 @@ fitur fitur:
   -dibuat dengan bahasa pemograman php dan framework laravel
   -ada tampilan persenan penurunan dan peningkatan customer
 -mempunya shop card
+  -bisa mentotal belanjaan
+  -dapat menampilkan shop card para customer di admin dashboard
+  -dapat menambahkan jumlah barang
+  -terdapat notif di bagian keranjang belanja
 -mengarah langsung ke wa
