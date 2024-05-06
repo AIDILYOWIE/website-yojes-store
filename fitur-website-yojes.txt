@@ -1,0 +1,5 @@
+fitur fitur:
+-interaktif
+-dapat menampilkan produk dan menghapus produk dengan admin dashbord
+-mempunya shop card
+-mengarah langsung ke wa
