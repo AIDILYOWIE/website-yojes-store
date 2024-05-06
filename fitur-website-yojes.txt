@@ -9,4 +9,6 @@ fitur fitur:
 -mempunya shop card
   -bisa mentotal belanjaan
   -dapat menampilkan shop card para customer di admin dashboard
+  -dapat menambahkan jumlah barang
+  -terdapat notif di bagian keranjang belanja
 -mengarah langsung ke wa
