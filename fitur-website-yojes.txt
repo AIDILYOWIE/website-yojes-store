@@ -6,8 +6,11 @@ fitur fitur:
 -dapat menampilkan produk dan menghapus produk dengan admin dashbord
   -dibuat dengan bahasa pemograman php dan framework laravel
   -ada tampilan persenan penurunan dan peningkatan customer
--mempunyai keranjang belanja
-  -tata letak responsive
-  -warna yang akurat
-  -setiap produk card memilki tatanan yang rapi
+-mempunya shop card
+  -bisa mentotal belanjaan
+  -dapat menampilkan shop card para customer di admin dashboard
+  -dapat menambahkan jumlah barang
+  -terdapat notif di bagian keranjang belanja
+  -perpduan warna
+  -tataletak yang reponsive
 -mengarah langsung ke wa
