@@ -4,5 +4,7 @@ fitur fitur:
   -dapat mengubah light and dark
   -responsive di semua media 
 -dapat menampilkan produk dan menghapus produk dengan admin dashbord
+  -dibuat dengan bahasa pemograman php dan framework laravel
+  -ada tampilan persenan penurunan dan peningkatan customer
 -mempunya shop card
 -mengarah langsung ke wa
