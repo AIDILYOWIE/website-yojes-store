@@ -11,4 +11,6 @@ fitur fitur:
   -dapat menampilkan shop card para customer di admin dashboard
   -dapat menambahkan jumlah barang
   -terdapat notif di bagian keranjang belanja
+  -perpduan warna
+  -tataletak yang reponsive
 -mengarah langsung ke wa
