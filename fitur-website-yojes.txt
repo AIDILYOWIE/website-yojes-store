@@ -1,6 +1,6 @@
 fitur fitur:
 -interaktif
-  -smoth scrolling 
+  -smoth scrolling ( menggunakan bahasa pemograman javascript )
   -dapat mengubah light and dark
   -responsive di semua media 
 -dapat menampilkan produk dan menghapus produk dengan admin dashbord
