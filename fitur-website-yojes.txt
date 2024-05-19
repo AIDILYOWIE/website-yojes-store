@@ -1,7 +1,7 @@
 fitur fitur:
 -interaktif
-  -smoth scrolling ( menggunakan bahasa pemograman javascript )
-  -dapat mengubah light and dark
+  -smoth scrolling 
+  -dapat mengubah light and dark ( dengan java script )
   -responsive di semua media 
 -dapat menampilkan produk dan menghapus produk dengan admin dashbord
   -dibuat dengan bahasa pemograman php dan framework laravel
